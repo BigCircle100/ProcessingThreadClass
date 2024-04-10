@@ -8,3 +8,4 @@ This is a sketch of a thread processing class. I intended to program a ViT infer
 
 Maybe the "process" section has multiple steps and needs to be splitted in order to build a pipeline. This part can be customized.
 
+You are welcomed to share opinions and make suggestions about what I have shown here. I am a beginner and looking forward to optimize it. 
